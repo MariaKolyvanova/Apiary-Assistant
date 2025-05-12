@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Apiary Assistant</string>
+    <string name="one">Главная</string>
+    <string name="two">AM</string>
+    <string name="three">Отчёты</string>
+    <string name="record">Запись</string>
+    <string name="to_start">НАЧАТЬ ЗАПИСЬ</string>
+    <string name="started">ЗАПИСЬ ИДЁТ</string>
+    <string name="pause">ПАУЗА</string>
+    <string name="completed">ЗАПИСЬ ЗАВЕРШЕНА</string>
+    <string name="to_pause">нажмите чтобы остановить</string>
+    <string name="resume">нажмите чтобы продолжить</string>
+    <string name="to_end">ЗАВЕРШИТЬ</string>
+    <string name="plus_one">+1</string>
+    <string name="guide">Инструкция</string>
+    <string name="permission_granted">Разрешение получено</string>
+    <string name="permission_denied">Разрешение не получено</string>
+    <string name="download">Скачать</string>
+    <string name="delete">Удалить</string>
+
+    <string name="createReport">Создать новый отчёт</string>
+
+    <string name="apiary_name">Название пасеки</string>
+    <string name="to_apiary_name">Введите название пасеки</string>
+    <string name="apiary_address">Адрес</string>
+    <string name="to_apiary_address">Введите адрес</string>
+    <string name="date">Дата осмотра</string>
+    <string name="number_row">Строка №</string>
+    <string name="left_arrow">left</string>
+    <string name="right_arrow">right</string>
+    <string name="my_apiary">Название</string>
+    <string name="column_name">Название столбца</string>
+    <string name="newReport">Создать новый отчёт</string>
+    <string name="or">или</string>
+    <string name="loadReport">Загрузить отчёт</string>
+    <string name="noReports">Отчёты не найдены</string>
+    <string name="toReturn">Продолжить</string>
+    <string name="nameGuide">Руководство пользования</string>
+    <string name="sheets">Страницы:</string>
+    <string name="GuideNewReport">Отчёт</string>
+    <string name="toAssistant">Запуск ассистента</string>
+    <string name="archive">Архив отчётов</string>
+    <string name="howToCreate">Как создать новый отчёт?\n</string>
+    <string name="toHowCreate">1. Откройте страницу <b>Отчёт</b>
+                            \n2. Нажмите на кнопку <b>Создать новый отчёт</b>
+                            \n3. Введите название пасеки и адрес. Нажмите на кнопку <b>"Создать новый отчёт"</b>.
+                            \n4. Откройте страницу <b>Ассистент</b> и нажмите на кнопку для начала записи.
+                            \n5. Чтобы поставить на паузу или продолжить, нажмите еще раз на кнопку.
+                            \n6. Для завершения записи нажминте на кнопку <b>Завершить</b>
+                            \n7. Для корректировки записанного откройте страницу <b>Отчёт</b> и отредактируйте необходимую информацию.
+                            \n8. Нажмите "Сохранить" </string>
+    <string name="save">Сохранить</string>
+    <string name="textNoReports">ВЫБЕРИТЕ ОТЧЁТ</string>
+    <string name="hasBeenCreated">Отчёт с таким названием\n пасеки уже создан</string>
+    <string name="permission">В настройках приложения разрешите использование микрофона</string>
+
+
+</resources>

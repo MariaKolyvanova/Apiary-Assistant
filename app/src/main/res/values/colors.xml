@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="brown">#4D220E</color>
+    <color name="brown80">#714934</color>
+    <color name="brown60">#947A6E</color>
+    <color name="orange">#FF7700</color>
+    <color name="orange10">#FFF1E5</color>
+    <color name="orange5">#FFF8F2</color>
+    <color name="orange15">#FFEBD9</color>
+    <color name="orange20">#FFE4CC</color>
+    <color name="orange60">#FFAD66</color>
+
+
+
+</resources>
